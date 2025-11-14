@@ -128,7 +128,7 @@
         {
           "name": "Ytmp3",
           "desc": "Download youtube format mp3",
-          "path": "/api/ytmp3?url="
+          "path": "/api/play?url="
         },
         {
           "name": "Ytdl mp3/mp4",
@@ -138,12 +138,12 @@
         {
           "name": "Ytmp4",
           "desc": "Download youtube format mp4",
-          "path": "/api/ytmp4?url="
+          "path": "/api/youtube?url="
         },
         {
           "name": "Play",
           "desc": "Play youtube format mp3",
-          "path": "/dl/yt/play?query="
+          "path": "/api/ytdl?query="
         }
       ]
     },
